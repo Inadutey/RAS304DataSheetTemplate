@@ -1,6 +1,6 @@
-site_name: EGR 304 Data Sheet Template
-site_url: https://embedded-systems-design.github.io/EGR304DataSheetTemplate
-repo_url: https://github.com/embedded-systems-design/EGR304DataSheetTemplate
+site_name: RAS 304 Data Sheet Template
+site_url: https://ras-embedded-systems.github.io/RAS304DataSheetTemplate/
+repo_url: https://github.com/ras-embedded-systems/RAS304DataSheetTemplate
 edit_uri: edit/main/docs/
 theme:
   name: material
