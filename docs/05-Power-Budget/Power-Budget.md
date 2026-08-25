@@ -2,10 +2,8 @@
 title: Power Budget
 ---
 
-#### Overview
+## Overview
 Write a overview of what you did and why you did a Power Budget.
-
-- POwaaaaaaaaa!
 
 > Capture your power budge as a image to display. Take time to get clean breaks and a well organized layout.
 
